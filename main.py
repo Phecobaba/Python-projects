@@ -5,4 +5,4 @@ first_number = (int(input_1) + int(input_2)) / 2
 second_number = first_number - int(input_2)
 
 print(f'The first number is: {int(first_number)}')
-print(f'The second number is: {int(second_number)}')
+print(f'The second number is: {int(second_number)}'
